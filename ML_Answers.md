@@ -8,13 +8,13 @@
 Used the notebooks to answer the following:
 
 > Which model had the best balanced accuracy score?
->> The Naive Random Oversampling gave the best balanced accuracy score at 0.7856360112968401.
+>> A combination (over and under) sampling using SMOTEENN gave the best balanced accuracy score at 0.7975170318801342.
 >
 > Which model had the best recall score?
 >> The SMOTE Oversampling gave the best recall score avg of 0.88.
 > 
 > Which model had the best geometric mean score?
->> The SMOTE Oversampling gave the best geometric mean score avg of 0.78.
+>> A combination (over and under) sampling using SMOTEENN gave the best geometric mean score avg of 0.79.
 
 
 
